@@ -1,5 +1,12 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body {
+    background-image: url('https://bs.uenicdn.com/blog/wp-content/uploads/2019/07/beneficios-nombre-dominios.jpg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
 }
